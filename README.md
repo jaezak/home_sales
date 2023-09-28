@@ -5,8 +5,6 @@
 # Home Sales Metrics using SparkSQL
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
-[Resources used](https://spark.apache.org/docs/3.0.0-preview/sql-ref-syntax-aux-cache-cache-table.html)
-
 ## Instructions
 1. Rename the `Home_Sales_starter_code.ipynb` file as `Home_Sales.ipynb`.
 
